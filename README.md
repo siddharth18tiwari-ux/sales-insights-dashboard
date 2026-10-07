@@ -30,7 +30,7 @@ Queries:
 9. Calculating revenue Contribution percentage for each market across all years
 10. Finding market name that made maximum sales
 
-### Data Visualization using [Power BI dashboard](https://github.com/PranathiYarravalli20/Sales-Insights-using-Power-BI/blob/main/Sales%20Insights%20-%20Visualization.pbix)
+### Data Visualization using [Power BI dashboard](https://github.com/siddharth18tiwari-ux/sales-insights-dashboard/blob/main/Sales%20Insights%20-%20Visualization.pbix)
 Getting data into BI through SQL dump and performing Data Visualization and analysing of hardware store products across different regions, observing profit analysis and revenue trend of the company.
 
 ### Insights:
